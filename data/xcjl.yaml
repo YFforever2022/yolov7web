@@ -1,0 +1,5 @@
+train: ../datasets/xcjl/images
+val: ../datasets/xcjl/images
+test: ../datasets/xcjl/images
+nc: 3
+names: ['Car','Motorcycle','Bicycle']

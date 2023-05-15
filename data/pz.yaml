@@ -1,0 +1,5 @@
+train: ../datasets/pz/images
+val: ../datasets/pz/images
+test: ../datasets/pz/images
+nc: 3
+names: ['5元','10元','15元']
